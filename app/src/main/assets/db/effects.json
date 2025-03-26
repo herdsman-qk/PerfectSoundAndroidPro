@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Brook",
+    "audio": "effect/brook.mp3",
+    "uid": "brook",
+    "icon": "drawable:vector_sound_ic_brook"
+  },
+  {
+    "name": "Rain On Leaves",
+    "audio": "effect/rain_on_leaves.mp3",
+    "uid": "rain_on_leaves",
+    "icon": "drawable:vector_sound_ic_rain_on_leaves"
+  },
+  {
+    "name": "Cave",
+    "audio": "effect/cave.mp3",
+    "uid": "cave",
+    "icon": "drawable:vector_sound_ic_cave"
+  },
+  {
+    "name": "Lake",
+    "audio": "effect/lake.mp3",
+    "uid": "lake",
+    "icon": "drawable:vector_sound_ic_lake"
+  },
+  {
+    "name": "Frog",
+    "audio": "effect/frog.mp3",
+    "uid": "frog",
+    "icon": "drawable:vector_sound_ic_frog"
+  },
+  {
+    "name": "Night",
+    "audio": "effect/night.mp3",
+    "uid": "night",
+    "icon": "drawable:vector_sound_ic_night"
+  },
+  {
+    "name": "Forest",
+    "audio": "effect/forest.mp3",
+    "uid": "forest",
+    "icon": "drawable:vector_sound_ic_forest"
+  },
+  {
+    "name": "Rain",
+    "audio": "effect/rain.mp3",
+    "uid": "rain",
+    "icon": "drawable:vector_sound_ic_rain"
+  },
+  {
+    "name": "Heavy Rain",
+    "audio": "effect/heavy_rain.mp3",
+    "uid": "heavy_rain",
+    "icon": "drawable:vector_sound_ic_heavy_rain"
+  },
+  {
+    "name": "Thunder",
+    "audio": "effect/thunder.mp3",
+    "uid": "thunder",
+    "icon": "drawable:vector_sound_ic_thunder"
+  },
+  {
+    "name": "Fire",
+    "audio": "effect/fire.mp3",
+    "uid": "fire",
+    "icon": "drawable:vector_sound_ic_fire"
+  }
+]

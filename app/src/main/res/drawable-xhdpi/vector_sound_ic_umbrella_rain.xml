@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="512dp" android:width="512dp" android:viewportWidth="512" android:viewportHeight="512">
+    <group android:pivotX="256" android:pivotY="512" android:scaleX="0.9" android:scaleY="0.9">
+        <path android:name="XMLID_337_" android:fillColor="#ffffff" android:pathData="M256,144.3c91.6,0,166.9,71.3,173.3,161.4H279.3h-35.7h-10.9H82.7 C89.1,215.6,164.4,144.3,256,144.3 M256,108.6c-115.6,0-209.6,94.1-209.5,209.7c0,12.8,10.5,23.1,23.3,23.1h164.9v100.9 c0,12.8-11.9,26.8-24.7,26.8c-15.3,0-25.3-15.4-29-28c-3.1-10.5-6-20-17.7-22c-12.9-2.2-23.7,10.9-23.6,24 c0.4,38,31.3,68.7,69.3,69c37.8,0.3,68.2-31,68.2-68.8V341.3h164.9c12.8,0,23.3-10.3,23.3-23.1C465.6,202.7,371.6,108.6,256,108.6z"/>
+        <path android:name="XMLID_338_" android:fillColor="#ffffff" android:pathData="M23.3,0C10.4,0,0,10.4,0,23.3v31c0,12.9,10.4,23.3,23.3,23.3s23.3-10.4,23.3-23.3v-31 C46.5,10.4,36.1,0,23.3,0L23.3,0z"/>
+        <path android:name="XMLID_340_" android:fillColor="#ffffff" android:pathData="M488.7,0c-12.9,0-23.3,10.4-23.3,23.3v31c0,12.9,10.4,23.3,23.3,23.3 c12.9,0,23.3-10.4,23.3-23.3v-31C512,10.4,501.6,0,488.7,0L488.7,0z"/>
+        <path android:name="XMLID_341_" android:fillColor="#ffffff" android:pathData="M23.3,124.1C10.4,124.1,0,134.5,0,147.4v31c0,12.9,10.4,23.3,23.3,23.3s23.3-10.4,23.3-23.3 v-31C46.5,134.5,36.1,124.1,23.3,124.1L23.3,124.1z"/>
+        <path android:name="XMLID_348_" android:fillColor="#ffffff" android:pathData="M488.7,124.1c-12.9,0-23.3,10.4-23.3,23.3v31c0,12.9,10.4,23.3,23.3,23.3 c12.9,0,23.3-10.4,23.3-23.3v-31C512,134.5,501.6,124.1,488.7,124.1L488.7,124.1z"/>
+        <path android:name="XMLID_350_" android:fillColor="#ffffff" android:pathData="M256,0c-12.9,0-23.3,10.4-23.3,23.3v31c0,12.9,10.4,23.3,23.3,23.3 c12.9,0,23.3-10.4,23.3-23.3v-31C279.3,10.4,268.9,0,256,0L256,0z"/>
+        <path android:name="XMLID_351_" android:fillColor="#ffffff" android:pathData="M139.6,31c-12.9,0-23.3,10.4-23.3,23.3v31c0,12.9,10.4,23.3,23.3,23.3s23.3-10.4,23.3-23.3 v-31C162.9,41.5,152.5,31,139.6,31L139.6,31z"/>
+        <path android:name="XMLID_352_" android:fillColor="#ffffff" android:pathData="M372.4,31c-12.9,0-23.3,10.4-23.3,23.3v31c0,12.9,10.4,23.3,23.3,23.3 c12.9,0,23.3-10.4,23.3-23.3v-31C395.6,41.5,385.2,31,372.4,31L372.4,31z"/>
+    </group>
+</vector>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2023. YeHwi Kim (KeE)
+  ~ This source code was created only for PerfectSoundsProject.
+  ~ Author: YeHwi Kim(KeE)
+  ~ Created Date: 4/8/2023
+  -->
+
+<androidx.appcompat.widget.AppCompatImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:scaleType="fitXY"
+    android:layout_height="wrap_content"
+    android:src="@drawable/bg_banner">
+
+</androidx.appcompat.widget.AppCompatImageView>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PerfectSound</string>
+
+    <string name="notification_cancel_timer">시간취소</string>
+    <string name="notification_pause">일시정지</string>
+    <string name="notification_play">재생</string>
+    <string name="notification_playing">재생</string>
+    <string name="notification_set_timer">시간설정</string>
+    <string name="notification_sounds_paused">일시정지됨</string>
+    <string name="notification_sounds_playing">재생중</string>
+    <string name="notification_stop">정지</string>
+    <string name="notification_timer_is_set">시간설정됨</string>
+    <string name="notification_timer_not_set">시간설정해제</string>
+
+    <string name="la_dashboard">&#xf1b2;</string>
+    <string name="la_check">&#xf17b;</string>
+    <string name="la_undo">&#xf35d;</string>
+    <string name="la_fav">&#xf318;</string>
+    <string name="la_not_fav">&#xf31b;</string>
+    <string name="la_random">&#xf2d0;</string>
+    <string name="la_backward">&#xf1da;</string>
+    <string name="la_forward">&#xf1db;</string>
+    <string name="la_play">&#xf2be;</string>
+    <string name="la_music">&#xf299;</string>
+    <string name="la_volume_up">&#xf375;</string>
+    <string name="la_pause">&#xf2ad;</string>
+    <string name="la_angle_double_left">&#xf10d;</string>
+    <string name="la_angle_double_right">&#xf10e;</string>
+    <string name="la_ellipsis_h">&#xf1c3;</string>
+
+    <string name="fi_close">&#xf161;</string>
+    <string name="fi_circle">&#xf163;</string>
+    <string name="fi_custom">&#xf130;</string>
+    <string name="fi_music">&#xf143;</string>
+
+
+</resources>

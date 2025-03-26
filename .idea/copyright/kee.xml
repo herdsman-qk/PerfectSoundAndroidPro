@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;)&amp;#36;today.year. YeHwi Kim (KeE)&#10;This source code was created only for PerfectSoundsProject.&#10;Author: YeHwi Kim(KeE)&#10;Created Date: &amp;#36;today.day/&amp;#36;today.month/&amp;#36;today.year" />
+    <option name="myName" value="kee" />
+  </copyright>
+</component>

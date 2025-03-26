@@ -1,0 +1,14 @@
+[
+  {
+    "effects": [
+      {
+        "effectUid": "brook",
+        "level": 50
+      }
+    ],
+    "title": "Babbling Brook",
+    "audio": "",
+    "image": "image/big_brook.jpg",
+    "uid": "morning_rain"
+  }
+]
