@@ -2,6 +2,11 @@
 
 **Perfect Sound** is an Android app designed to help people sleep better by playing relaxing and soothing music. The app contains a variety of national melodies from around the world, offering a calming and peaceful experience for users. Perfect for helping you fall asleep, stay relaxed, and enjoy a deeper sleep.
 
+<p align="center">
+  <img src="https://github.com/herdsman-qk/PerfectSoundAndroidPro/blob/master/screenshot/Screenshot_20250324_125718.jpg" alt="Screenshot" width="500">
+  <img src="https://github.com/herdsman-qk/PerfectSoundAndroidPro/blob/master/screenshot/Screenshot_20250324_125742.jpg" alt="Screenshot" width="500">
+</p>
+
 ## Features
 
 - **Diverse Music Collections**: Enjoy a wide selection of national melodies from different cultures, all curated for relaxation and sleep.
